@@ -1,0 +1,19 @@
+#canvas {
+    width: 80%;
+    border: 2px solid black;
+    background: white;
+}
+button {
+    align-items: center;
+    background-color: #994d4d;
+    border-radius: 10px;
+    width: 200px;
+    color: #f7ecec;
+    cursor: pointer;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+
+
